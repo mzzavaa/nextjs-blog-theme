@@ -35,3 +35,10 @@ yarn-error.log*
 
 # netlify
 .netlify
+
+# Local and secret files
+.env
+node_modules/
+__pycache__/
+.venv/
+.claude/settings.local.json
